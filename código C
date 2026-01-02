@@ -1,0 +1,14 @@
+#include <stdio.h>
+
+int main() {
+    int carta = 1;
+    char Estado[30] = "ceara";
+    char Codigo_Da_Carta[5] = "a03";
+    char Nome_da_Cidade[40] = "Fortaleza";
+    int Populacao = 20000000;
+    float Area_km2 = 30000000;
+    int Pontos_turisticos = 30;
+
+
+
+    return 0;
